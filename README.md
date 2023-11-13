@@ -1,4 +1,4 @@
-# Fourier-Transforms-in-action
+# Fourier Transforms in action
 
 ## In this notebook, we shall see the implementation of fft, ifft, fftshift in the torch.fft module
 
